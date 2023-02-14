@@ -1,0 +1,11 @@
+.body {
+    border: 4px dotted black;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+.styled-text {
+    color: var(--test-golden-color);
+    font-size: var(--test-main-font-size);
+    margin-bottom: var(--test-default-margin);
+}

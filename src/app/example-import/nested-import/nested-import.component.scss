@@ -1,0 +1,11 @@
+@import "src/variables-import.scss"; // plik z któego importujemy style
+
+.body {
+    border: 3px dashed grey;
+    padding: 10px;
+}
+
+.styled-text {
+    color: $test-magenta-color;
+    font-size: $test-secondary-font-size;
+}

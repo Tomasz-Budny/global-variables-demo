@@ -1,0 +1,14 @@
+@import "src/variables-import.scss"; // plik z któego importujemy style
+
+.body {
+    border: 4px dotted black;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+
+// na tej klasie używamy uprzednio zaimportowane style
+.styled-text {
+    color: $test-golden-color;
+    font-size: $test-main-font-size;
+    margin-bottom: $test-default-margin
+}
