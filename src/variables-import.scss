@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&family=Roboto&family=Space+Grotesk:wght@700&family=Syne+Tactile&display=swap');
+
 // Colors
 $test-golden-color: #f39200;
 $test-magenta-color: #f700f7;
@@ -7,4 +9,8 @@ $test-main-font-size: 30px;
 $test-secondary-font-size: 20px;
 
 // Margins
-$test-default-margin: 10px
+$test-default-margin: 10px;
+
+//Fonts
+$test-main-font-family: 'Space Grotesk';
+$test-secondary-font-family: fantasy;

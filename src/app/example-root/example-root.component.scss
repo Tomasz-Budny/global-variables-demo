@@ -7,5 +7,6 @@
 .styled-text {
     color: var(--test-golden-color);
     font-size: var(--test-main-font-size);
+    font-family: var(-test-main-font-family);
     margin-bottom: var(--test-default-margin);
 }
